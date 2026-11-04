@@ -1,0 +1,8 @@
+/_build/
+/deps/
+/.elixir_ls/
+/firmware_images/
+/erl_crash.dump
+*.avm
+*.beam
+.DS_Store
